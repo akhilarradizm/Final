@@ -1,3 +1,3 @@
 def fun(x,y):
-	pass
+	return x+y
 
